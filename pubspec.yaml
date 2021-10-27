@@ -15,4 +15,13 @@ flutter:
   uses-material-design: true
   assets:
     - assets/image.jpg
+    - assets/me.png
+  fonts:
+    - family: DancingScript
+      fonts:
+        - asset: fonts/DancingScript.ttf
+        
+    - family: SourceSansPro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
 
